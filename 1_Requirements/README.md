@@ -25,7 +25,7 @@ A phonebook manager is a software program that enables users to easily store and
 
 ##  Defining our System
 
-![System Definition](https://github.com/jayanthbonagiri/Stepin-PhoneBook_Manager/blob/main/1_Requirements/Defining_the_system.png)
+![System Definition]
 
  Phonebook Manager have features like:
  -  Add a new contact. 
@@ -36,7 +36,7 @@ A phonebook manager is a software program that enables users to easily store and
  - Display contacts.
 
 ## SWOT Analysis
-![SWOT](https://github.com/jayanthbonagiri/Stepin-PhoneBook_Manager/blob/main/1_Requirements/SWOT.png)
+![SWOT]
 
 
 # 4 W's and 1 H
